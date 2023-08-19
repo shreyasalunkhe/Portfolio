@@ -1,2 +1,4 @@
 # Portfolio
-Personal Portfolio Website built with HTML, CSS and JavaScript.
+Personal Portfolio Website built with HTML, CSS, and JavaScript.
+- Mobile Friendly.
+- Web Responsive. 
